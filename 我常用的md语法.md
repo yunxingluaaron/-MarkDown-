@@ -7,6 +7,6 @@
 ---
 7. 下划线: 不支持
 8. 换行：<br>
-9. 插入图片：![示例图片](Image\Capture.PNG])
+9. 插入图片：![示例图片](./Image/Capture.PNG)
 
 
